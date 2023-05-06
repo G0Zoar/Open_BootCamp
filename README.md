@@ -1,2 +1,3 @@
 # Ejercicios-Open-BootCamp
-&lt;body>&lt;h1>ID="Alumno">Fernando Troncoso&lt;/h1>&lt;/body>
+Esta Carpeta contiene los Ejercicios por cada modulo correspondiente del Open BootCamp;
+Cada ejercicio tiene su carpeta correspondiemte.
