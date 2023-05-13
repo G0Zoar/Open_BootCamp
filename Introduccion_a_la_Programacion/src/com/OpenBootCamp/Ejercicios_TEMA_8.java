@@ -9,7 +9,6 @@ public class Ejercicios_TEMA_8 {
         System.out.println(persona.getEdad());
         System.out.println(persona.getNombre());
         System.out.println(persona.getTelefono());
-
     }
 }
 class Persona {
