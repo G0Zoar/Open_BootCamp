@@ -60,4 +60,4 @@ class TrabajadorX extends PersonaX {
         return this.salario;
     }
 }
-//ALUMNO: Ezequiel Troncoso.
+// ALUMNO: Ezequiel Troncoso .
