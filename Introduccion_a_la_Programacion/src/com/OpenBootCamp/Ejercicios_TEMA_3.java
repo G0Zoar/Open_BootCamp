@@ -36,4 +36,4 @@ public class Ejercicios_TEMA_3 {
         }
     }
 }
-// ALUMNO: Ezequiel Troncoso !
+// ALUMNO: Ezequiel Troncoso.
