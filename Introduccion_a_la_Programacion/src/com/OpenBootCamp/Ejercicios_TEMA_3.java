@@ -30,9 +30,10 @@ public class Ejercicios_TEMA_3 {
 
     //Ejercicios TEMA 3 'Segunda Parte'
     static class Coche {
-        public int puertas = 2;
-        public void SumarPuertas() {
+        int puertas = 2;
+        void SumarPuertas() {
             this.puertas++;
         }
     }
 }
+// ALUMNO: Ezequiel Troncoso !
