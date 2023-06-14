@@ -1,0 +1,13 @@
+.hover-button::before {
+  content: 'Pasa por encima!';
+}
+
+.hover-button:hover {
+  color: white;
+  background-color: green;
+}
+
+.hover-button:hover::after{
+  content: " >> _-Hecho-_ <<";
+}
+
