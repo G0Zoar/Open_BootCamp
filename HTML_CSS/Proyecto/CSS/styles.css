@@ -1,0 +1,102 @@
+.btn-main, .btn-sec, .btn-sec-s, .btn-main-s {
+  padding: 0.25rem 1.5rem;
+  border-radius: 0.25rem;
+  background-color: #0075ff;
+  color: white;
+  border: none;
+  border: solid 1pc #0075ff;
+}
+.btn-main:hover, .btn-sec:hover, .btn-sec-s:hover, .btn-main-s:hover {
+  background-color: white;
+  color: #0075ff;
+}
+.btn-main-s {
+  font-size: 0.75rem;
+  padding: 0.1rem 1rem;
+}
+
+.btn-sec, .btn-sec-s {
+  color: black;
+  background-color: white;
+  border: none;
+}
+.btn-sec:hover, .btn-sec-s:hover {
+  color: #888;
+}
+.btn-sec-s {
+  font-size: 0.75rem;
+  padding: 0.1rem 1rem;
+}
+
+.main-menu li {
+  font-size: 0.75rem;
+  list-style: none;
+  display: inline;
+}
+
+.icon-sm i {
+  font-size: 0.75rem;
+  color: #0075ff;
+  padding: 0.1rem 0.25rem;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(95, 92, 92, 0.473);
+}
+
+.feacture {
+  display: flex;
+  flex-direction: column;
+}
+.feacture .icon {
+  color: #0075ff;
+  font-size: 10rem;
+  text-align: center;
+}
+.feacture .description .title {
+  font-size: 2rem;
+  text-align: center;
+}
+.feacture .description .text {
+  color: #888;
+  font-weight: 600;
+  text-align: center;
+}
+.feacture .cta {
+  margin-top: 3rem;
+  color: #0075ff;
+  font-weight: 600;
+  text-align: center;
+}
+
+.icon-desc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon-desc .icon {
+  color: #0075ff;
+  font-size: 10rem;
+  padding: 0;
+  text-align: center;
+}
+.icon-desc .title {
+  margin-top: -2rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  height: 4rem;
+  border-bottom: solid 1px #ddd;
+}
+
+/*# sourceMappingURL=styles.css.map */
